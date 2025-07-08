@@ -1,3 +1,4 @@
 fastapi
 uvicorn[standard]
-pip install pyngrok
+pyngrok
+python-dotenv
